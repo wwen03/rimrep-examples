@@ -1,0 +1,6 @@
+install.packages("tidyverse")
+install.packages("arrow")
+install.packages("terra")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages('leaflet')
