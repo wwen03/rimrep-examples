@@ -13,3 +13,4 @@ Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
 
 
+open this repo in a BinderHub environment [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aodn/rimrep-training/HEAD)
