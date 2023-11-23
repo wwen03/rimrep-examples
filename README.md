@@ -1,6 +1,6 @@
 # Great Barrier Reef (GBR) Data Management System (DMS) training repository
 
-This repository contains example scripts for the Research Bazaar (ResBaz) in Queensland and the RIMReP DMS Hackathon at QUT. 
+This repository contains example scripts for the GBR DMS training sessions. The current notebooks will be used in a workshop at [Research Bazaar (ResBaz)](https://resbaz.github.io/resbaz2023qld/) in Queensland (23 Nov 2023) and the DMS Hackathon at QUT (24 Nov 2023). 
   
 ## Running example notebooks in this repository
 You can either download or clone this repository to your local machine if you want to run the example notebooks included here. Below we include some instructions on how to set up you machine before you can successfully run the example notebooks.  
