@@ -1,0 +1,45 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>degree heating week</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">13.091933250427</MDI>
+      <MDI key="STATISTICS_MEAN">2.4186156242662</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">2.2614392512213</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">70.79</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>degree heating week</Description>
+  </PAMRasterBand>
+</PAMDataset>
